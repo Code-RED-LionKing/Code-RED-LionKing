@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-RED-LionKing&layout=compact)](https://github.com/CODE-RED-KionKing/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-RED-LionKing&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-RED-LionKing)](https://github.com/CODE-RED-LionKing/github-readme-stats)
+
   <img src="http://mazandi.herokuapp.com/api?handle={CODE-RED-LionKing}&theme=warm"/>
   
   
