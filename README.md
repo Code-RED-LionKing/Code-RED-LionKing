@@ -11,7 +11,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-RED-LionKing&show_icons=true&theme=transparent)
 
-  <img src="http://mazandi.herokuapp.com/api?handle={CODE-RED-LionKing}&theme=warm"/>
   
   
 
