@@ -1,5 +1,6 @@
 ### Hi there 👋
  🌱 I’m currently learning Javacsript, Node.JS, Python, SQL
+ <br></br>
  🌱 currently Focusing on Data Analysis
  <br></br>
  📫 How to reach me: 
