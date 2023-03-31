@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🌱 I’m currently learning Javacsript, Node.JS
+ 🌱 I’m currently learning Javacsript, Node.JS, Python, SQL
  <br></br>
  📫 How to reach me: 
 <br></br>wy0628j@gmail.com 
