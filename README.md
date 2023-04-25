@@ -2,6 +2,7 @@
  🌱 I’m currently learning Javacsript, Node.JS, Python, SQL
  <br></br>
  🌱 currently Focusing on Data Analysis
+ 🌱 멋쟁이사자처럼 데이터분석 1기
  <br></br>
  📫 How to reach me: 
 <br></br>wy0628j@gmail.com 
